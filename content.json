@@ -1,6 +1,16 @@
-{
-    "Batman": ["Action", "https://m.media-amazon.com/images/M/MV5BOGE2NWUwMDItMjA4Yi00N2Y3LWJjMzEtMDJjZTMzZTdlZGE5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"],
-    "Catwoman": ["Action", "https://img.moviepostershop.com/wonder-woman-movie-poster-2017-1020777371.jpg"],
-    "Scary Movie" : ["Comedy", "https://img.moviepostershop.com/scary-movie-2-movie-poster-2001-1020211016.jpg"],
-    "Jujustu Kaisen" : ["Anime"],
-    "Pitch Perfect": "Comedy"}
+[{"title":"Batman",
+    "genre":["Action"],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGE2NWUwMDItMjA4Yi00N2Y3LWJjMzEtMDJjZTMzZTdlZGE5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"},
+    {"title":"Scary Movie",
+        "genre":["Comedy"],
+        "image": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"},
+        {"title":"Get Out",
+            "genre":["Horror"],
+            "image": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg"},
+            {"title":"Pitch Perfect",
+                "genre":["Comedy"],
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcyMTMzNzE5N15BMl5BanBnXkFtZTcwNzg5NjM5Nw@@._V1_.jpg"},
+                {"title":"Jujustu Kaisen",
+                    "genre":["Anime"],
+                    "image": "https://i5.walmartimages.com/asr/adae4dba-f6c0-46c1-a178-1672e0eacee6.33d2713019ca583b1eb1f583b0046288.jpeg"}
+]
